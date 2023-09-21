@@ -1,15 +1,13 @@
 # <p align="center">Sistema de Gestión Hotelera</p>
 
 
-<p align="center" >
-     <img width="600" heigth="600" src="imagenes/demo.gif">
+![demo](src/imagenes/demo.gif)
+
+
+
+<p style="text-align: justify"> 
+<strong>Este proyecto se centra en el desarrollo de un sistema de gestión hotelera que simplifica las tareas relacionadas con la administración de reservas y huéspedes en un hotel. Las principales funcionalidades incluyen:</strong>
 </p>
-
-
-
-
-
-###<p style="text-align: justify;">Este proyecto se centra en el desarrollo de un sistema de gestión hotelera que simplifica las tareas relacionadas con la administración de reservas y huéspedes en un hotel. Las principales funcionalidades incluyen:</p>
 
 1. **Creación de Reservas**: Los usuarios pueden crear nuevas reservas de habitaciones y servicios.
 
@@ -37,17 +35,12 @@ Este sistema agiliza las operaciones del hotel, mejora la experiencia del client
  </br>
 
 ---
-## ⚠️ Especificaciones: ⚠️
-El Sistema está realizado con:
+## ⚠️ A tener en cuenta: ⚠️
+El sistema es un proyecto funcional, lo que solo permite operaciones básica, y como tal puede ser modificado y adaptado a sus necesidades.
 
-☕ Java versión 19 o superior para compatibilidad. </br></br>
-📝 Recomendamos usar el editor de Eclipse para compatibilidad con la Interfaz Gráfica. </br></br>
-🎨 La interfaz contiene dos métodos importantes:
-- setResizable(false): determina el tamaño de la ventana, y a través del parámetro <strong>false</strong>, la pantalla no se puede maximizar;
-- setLocationRelativeTo(null): determina la ubicación de la ventana, y a través del parámetro <strong>null</strong> la mantiene centrada en la pantalla.
 
 ---
 
-<strong>Francisco Alenda</strong></br>
+<p style="text-align: center">Francisco Alenda -<strong> ☕ falendaDev ☕</strong></br>
 <a href="https://www.linkedin.com/in/franciscoalenda/">
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
